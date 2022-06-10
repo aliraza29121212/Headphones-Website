@@ -57,6 +57,9 @@
   }
 
   /* features */
+  .features .card .icon {
+    margin-bottom: 20px;
+  }
 
   /* Headphones */
 }
@@ -93,6 +96,15 @@
     line-height: 1rem;
   }
   /* About */
+  .about-slider,
+  .feature-img-box,
+  .style-img {
+    width: 50%;
+    margin: auto;
+  }
+  .about-section .carousel-inner {
+    border-radius: 0 0 1.875rem;
+  }
 
   /* Headphones */
 
